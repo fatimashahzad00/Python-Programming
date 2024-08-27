@@ -6,3 +6,4 @@ def move_player():
     print(position)
 
 move_player()
+move_player()
